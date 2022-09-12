@@ -4,7 +4,7 @@
          define('servidor','192.168.1.78');
          define('nombre_bd','crud');
          define('usuario','root');
-         define('password','secret');         
+         define('password',' ');         
          $opciones = array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8');
          
          try{
